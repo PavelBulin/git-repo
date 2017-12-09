@@ -3,7 +3,7 @@
 *
 * @author Pavel Bulin
 * @version 09.12.2017
-* @link 
+* @link https://github.com/PavelBulin/git-repo.git
 */
 
 class HomeWork5 {
