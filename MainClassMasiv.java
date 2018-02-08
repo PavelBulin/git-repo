@@ -1,3 +1,12 @@
+/**
+* Java. Level 2. HomeWork5
+*
+* @author Pavel Bulin
+* @version 08.02.2018
+* @link https://github.com/PavelBulin/git-repo.git
+*/
+
+
 package Lesson5;
 
 public class MainClassMasiv {
