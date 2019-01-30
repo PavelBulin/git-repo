@@ -22,7 +22,7 @@ class ZHKH {
 		System.out.println("Input used EE of T3:");
 		float t3 = sc.nextFloat() * T3;
 		
-		System.out.println("For payment you need: " + (coldWater + hotWater + t1 + t2 + t3));
+		System.out.println("For payment you need: " + (coldWater + hotWater + t1 + t2 + t3) + " rub");
 	}
 }
 
